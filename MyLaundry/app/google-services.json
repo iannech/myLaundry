@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8073370210",
+    "firebase_url": "https://mylaundry-f7a84.firebaseio.com",
+    "project_id": "mylaundry-f7a84",
+    "storage_bucket": "mylaundry-f7a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8073370210:android:90db95a304453e03",
+        "android_client_info": {
+          "package_name": "com.example.nech.mylaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8073370210-ikfksubo9vn282jtkvebn6ostuavduvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBo9pFD6-swK0aJBqSOmTRebJ8pcFhBU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
